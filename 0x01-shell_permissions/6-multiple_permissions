@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ug=rx script.sh
+chmod ug+x,o+e hello
